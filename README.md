@@ -1,8 +1,8 @@
-# Netflix Content Analysis - Data Analysis and Visualization
+# [Netflix Content Analysis - Data Analysis and Visualization](https://netflixcontentanalysis.streamlit.app/)
 #### A comprehensive data analysis project exploring Netflix's content catalog using Python, focusing on various trends and patterns in movies and TV shows. 
 
 ### Project Overview
-#### This project analyzes Netflix's content library using data visualization and statistical analysis to uncover insights about movie durations, content distribution, and production trends. The analysis is presented through an interactive Streamlit dashboard.
+#### This project analyzes Netflix's content library using data visualization and statistical analysis to uncover insights about movie durations, content distribution, and production trends. The analysis is presented through an interactive Streamlit dashboard (https://netflixcontentanalysis.streamlit.app/)
 
 ### Key Features
 #### - Distribution analysis of movie durations across different genres and decades
